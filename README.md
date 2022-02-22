@@ -1,2 +1,2 @@
 # Google-Clone
-Basic Project replecating the landing page of Google. 
+Project replicating the landing page of Google. 
